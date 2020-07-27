@@ -1,0 +1,11 @@
+
+
+
+hi
+push
+pop
+apply
+pull 
+commit
+merge
+branch
